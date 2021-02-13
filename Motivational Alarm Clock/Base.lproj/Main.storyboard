@@ -790,7 +790,9 @@ Cancel anytime.</string>
                                                                             <constraint firstAttribute="height" constant="108" id="eia-hJ-gRE"/>
                                                                         </constraints>
                                                                         <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                                        <state key="normal" image="Bitmap"/>
+                                                                        <state key="normal">
+                                                                            <imageReference key="image" image="Bitmap" symbolScale="large"/>
+                                                                        </state>
                                                                     </button>
                                                                 </subviews>
                                                                 <constraints>
@@ -2868,7 +2870,7 @@ Cancel anytime.</string>
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="ZXS-aD-rLo"/>
+        <segue reference="aal-4H-WkB"/>
         <segue reference="YON-42-if4"/>
     </inferredMetricsTieBreakers>
     <resources>

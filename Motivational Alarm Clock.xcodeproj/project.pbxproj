@@ -73,7 +73,7 @@
 		4E6374CF25D88C6A0084B21D /* Easing Depression.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748425D88C500084B21D /* Easing Depression.mp3 */; };
 		4E6374D025D88C6A0084B21D /* A Heart Less Heavy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748525D88C510084B21D /* A Heart Less Heavy.mp3 */; };
 		4E6374D125D88C6A0084B21D /* Loving-Kindness.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748625D88C530084B21D /* Loving-Kindness.mp3 */; };
-		4E6374D225D88C6A0084B21D /* Relationship with Self Series .mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748725D88C550084B21D /* Relationship with Self Series .mp3 */; };
+		4E6374D225D88C6A0084B21D /* Relationship with Self Series.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748725D88C550084B21D /* Relationship with Self Series.mp3 */; };
 		4E6374D325D88C6A0084B21D /* Stillwater - Apple TV+.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748825D88C560084B21D /* Stillwater - Apple TV+.mp3 */; };
 		4E6374D425D88C6A0084B21D /* Calm Kids (Ages 5-6).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748925D88C580084B21D /* Calm Kids (Ages 5-6).mp3 */; };
 		4E6374D525D88C6A0084B21D /* Open-Ended Meditation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748A25D88C5A0084B21D /* Open-Ended Meditation.mp3 */; };
@@ -394,7 +394,7 @@
 		4E63748425D88C500084B21D /* Easing Depression.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Easing Depression.mp3"; sourceTree = "<group>"; };
 		4E63748525D88C510084B21D /* A Heart Less Heavy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A Heart Less Heavy.mp3"; sourceTree = "<group>"; };
 		4E63748625D88C530084B21D /* Loving-Kindness.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Loving-Kindness.mp3"; sourceTree = "<group>"; };
-		4E63748725D88C550084B21D /* Relationship with Self Series .mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Relationship with Self Series .mp3"; sourceTree = "<group>"; };
+		4E63748725D88C550084B21D /* Relationship with Self Series.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Relationship with Self Series.mp3"; sourceTree = "<group>"; };
 		4E63748825D88C560084B21D /* Stillwater - Apple TV+.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Stillwater - Apple TV+.mp3"; sourceTree = "<group>"; };
 		4E63748925D88C580084B21D /* Calm Kids (Ages 5-6).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Calm Kids (Ages 5-6).mp3"; sourceTree = "<group>"; };
 		4E63748A25D88C5A0084B21D /* Open-Ended Meditation.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Open-Ended Meditation.mp3"; sourceTree = "<group>"; };
@@ -648,7 +648,7 @@
 				4E63748A25D88C5A0084B21D /* Open-Ended Meditation.mp3 */,
 				4E63744F25D88C080084B21D /* Panic SOS.mp3 */,
 				4E63747625D88C380084B21D /* Relationship with Others Series.mp3 */,
-				4E63748725D88C550084B21D /* Relationship with Self Series .mp3 */,
+				4E63748725D88C550084B21D /* Relationship with Self Series.mp3 */,
 				4E63745625D88C100084B21D /* Relaxed Open-hearted Presence.mp3 */,
 				4E63745025D88C090084B21D /* Restful Sleep.mp3 */,
 				4E63747F25D88C470084B21D /* Returning to Now.mp3 */,
@@ -1174,7 +1174,7 @@
 				4E63749D25D88C6A0084B21D /* Thomas & Friends Learn to Meditate.mp3 in Resources */,
 				4E6374D725D88C6A0084B21D /* Soundscape Meditation- Central Park.mp3 in Resources */,
 				9D9BAC7625B8F80C00084507 /* Good Morning.mp3 in Resources */,
-				4E6374D225D88C6A0084B21D /* Relationship with Self Series .mp3 in Resources */,
+				4E6374D225D88C6A0084B21D /* Relationship with Self Series.mp3 in Resources */,
 				9D1FF06225D72EC700E26DDF /* UberMoveTextBold.otf in Resources */,
 				4E63749925D88C6A0084B21D /* Mindful Walking.mp3 in Resources */,
 				4E63749C25D88C6A0084B21D /* Softly Back to Sleep.mp3 in Resources */,
