@@ -12,6 +12,113 @@
 		4E245DF425ADEABE00C8E57B /* MediaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E245DF325ADEABE00C8E57B /* MediaViewController.swift */; };
 		4E60EC5C25AF7AAF0049D4ED /* SelectSoundViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E60EC5B25AF7AAF0049D4ED /* SelectSoundViewController.swift */; };
 		4E60EC6125AF7D1D0049D4ED /* SoundPickCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E60EC6025AF7D1D0049D4ED /* SoundPickCollectionViewCell.swift */; };
+		4E63749525D88C6A0084B21D /* 7 Days of Gratitude.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63744A25D88C000084B21D /* 7 Days of Gratitude.mp3 */; };
+		4E63749625D88C6A0084B21D /* Mindfulness in Daily Life.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63744B25D88C020084B21D /* Mindfulness in Daily Life.mp3 */; };
+		4E63749725D88C6A0084B21D /* Calm Light.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63744C25D88C030084B21D /* Calm Light.mp3 */; };
+		4E63749825D88C6A0084B21D /* Mindfulness with Mallika.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63744D25D88C050084B21D /* Mindfulness with Mallika.mp3 */; };
+		4E63749925D88C6A0084B21D /* Mindful Walking.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63744E25D88C060084B21D /* Mindful Walking.mp3 */; };
+		4E63749A25D88C6A0084B21D /* Panic SOS.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63744F25D88C080084B21D /* Panic SOS.mp3 */; };
+		4E63749B25D88C6A0084B21D /* Restful Sleep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745025D88C090084B21D /* Restful Sleep.mp3 */; };
+		4E63749C25D88C6A0084B21D /* Softly Back to Sleep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745125D88C0A0084B21D /* Softly Back to Sleep.mp3 */; };
+		4E63749D25D88C6A0084B21D /* Thomas & Friends Learn to Meditate.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745225D88C0B0084B21D /* Thomas & Friends Learn to Meditate.mp3 */; };
+		4E63749E25D88C6A0084B21D /* Untangling Physical Pain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745325D88C0C0084B21D /* Untangling Physical Pain.mp3 */; };
+		4E63749F25D88C6A0084B21D /* Deep Sleep Release.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745425D88C0E0084B21D /* Deep Sleep Release.mp3 */; };
+		4E6374A025D88C6A0084B21D /* 7 Days of Focus.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745525D88C0F0084B21D /* 7 Days of Focus.mp3 */; };
+		4E6374A125D88C6A0084B21D /* Relaxed Open-hearted Presence.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745625D88C100084B21D /* Relaxed Open-hearted Presence.mp3 */; };
+		4E6374A225D88C6A0084B21D /* Winnie the Pooh Series.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745725D88C110084B21D /* Winnie the Pooh Series.mp3 */; };
+		4E6374A325D88C6A0084B21D /* Mindful Eating Series.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745825D88C120084B21D /* Mindful Eating Series.mp3 */; };
+		4E6374A425D88C6A0084B21D /* Love and Relationships.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745925D88C130084B21D /* Love and Relationships.mp3 */; };
+		4E6374A525D88C6A0084B21D /* Letting Go into Sleep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745A25D88C150084B21D /* Letting Go into Sleep.mp3 */; };
+		4E6374A625D88C6A0084B21D /* Emergency Calm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745B25D88C160084B21D /* Emergency Calm.mp3 */; };
+		4E6374A725D88C6A0084B21D /* How to Meditate.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745C25D88C170084B21D /* How to Meditate.mp3 */; };
+		4E6374A825D88C6A0084B21D /* Forgiveness.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745D25D88C180084B21D /* Forgiveness.mp3 */; };
+		4E6374A925D88C6A0084B21D /* Anxiety Release.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745E25D88C190084B21D /* Anxiety Release.mp3 */; };
+		4E6374AA25D88C6A0084B21D /* Deep Rest.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63745F25D88C1A0084B21D /* Deep Rest.mp3 */; };
+		4E6374AB25D88C6A0084B21D /* Rhythm of the Train.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746025D88C1C0084B21D /* Rhythm of the Train.mp3 */; };
+		4E6374AC25D88C6A0084B21D /* Take-90.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746125D88C1D0084B21D /* Take-90.mp3 */; };
+		4E6374AD25D88C6A0084B21D /* Emotions Series.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746225D88C1E0084B21D /* Emotions Series.mp3 */; };
+		4E6374AE25D88C6A0084B21D /* Commuting.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746325D88C200084B21D /* Commuting.mp3 */; };
+		4E6374AF25D88C6A0084B21D /* 7 Days of Soothing Pain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746425D88C210084B21D /* 7 Days of Soothing Pain.mp3 */; };
+		4E6374B025D88C6A0084B21D /* Calm Kids (Ages 7-10).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746525D88C220084B21D /* Calm Kids (Ages 7-10).mp3 */; };
+		4E6374B125D88C6A0084B21D /* Breaking Habits Series.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746625D88C230084B21D /* Breaking Habits Series.mp3 */; };
+		4E6374B225D88C6A0084B21D /* Calm Kids (Ages 3-4).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746725D88C250084B21D /* Calm Kids (Ages 3-4).mp3 */; };
+		4E6374B325D88C6A0084B21D /* Calming Flight Anxiety.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746825D88C260084B21D /* Calming Flight Anxiety.mp3 */; };
+		4E6374B425D88C6A0084B21D /* 21 Days of Calm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746925D88C270084B21D /* 21 Days of Calm.mp3 */; };
+		4E6374B525D88C6A0084B21D /* Saying Yes to Life.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746A25D88C280084B21D /* Saying Yes to Life.mp3 */; };
+		4E6374B625D88C6A0084B21D /* Calm Kids (Ages 14-17).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746B25D88C290084B21D /* Calm Kids (Ages 14-17).mp3 */; };
+		4E6374B725D88C6A0084B21D /* Deep Sleep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746C25D88C2B0084B21D /* Deep Sleep.mp3 */; };
+		4E6374B825D88C6A0084B21D /* Sleep Rhythm- Kumbhaka.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746D25D88C2C0084B21D /* Sleep Rhythm- Kumbhaka.mp3 */; };
+		4E6374B925D88C6A0084B21D /* Sleep Rhythm- Rising and Falling.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746E25D88C2D0084B21D /* Sleep Rhythm- Rising and Falling.mp3 */; };
+		4E6374BA25D88C6A0084B21D /* Sleep Rhythm- Rushing Waves.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63746F25D88C2E0084B21D /* Sleep Rhythm- Rushing Waves.mp3 */; };
+		4E6374BB25D88C6A0084B21D /* Soundscape Meditation- Costa Rican Jungle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747025D88C2F0084B21D /* Soundscape Meditation- Costa Rican Jungle.mp3 */; };
+		4E6374BC25D88C6A0084B21D /* Staying on Track.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747125D88C300084B21D /* Staying on Track.mp3 */; };
+		4E6374BD25D88C6A0084B21D /* College Collection.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747225D88C320084B21D /* College Collection.mp3 */; };
+		4E6374BE25D88C6A0084B21D /* Body Scan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747325D88C330084B21D /* Body Scan.mp3 */; };
+		4E6374BF25D88C6A0084B21D /* Train Your Mind.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747425D88C340084B21D /* Train Your Mind.mp3 */; };
+		4E6374C025D88C6A0084B21D /* 7 Days of Calm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747525D88C360084B21D /* 7 Days of Calm.mp3 */; };
+		4E6374C125D88C6A0084B21D /* Relationship with Others Series.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747625D88C380084B21D /* Relationship with Others Series.mp3 */; };
+		4E6374C225D88C6A0084B21D /* Drifting Off with Gratitude.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747725D88C3A0084B21D /* Drifting Off with Gratitude.mp3 */; };
+		4E6374C325D88C6A0084B21D /* Daily Calm Highlights.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747825D88C3B0084B21D /* Daily Calm Highlights.mp3 */; };
+		4E6374C425D88C6A0084B21D /* Calming Anxiety.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747925D88C3D0084B21D /* Calming Anxiety.mp3 */; };
+		4E6374C525D88C6A0084B21D /* Deep Sleep Relax.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747A25D88C3F0084B21D /* Deep Sleep Relax.mp3 */; };
+		4E6374C625D88C6A0084B21D /* Soundscape Meditation- California Beachside.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747B25D88C410084B21D /* Soundscape Meditation- California Beachside.mp3 */; };
+		4E6374C725D88C6A0084B21D /* World Cup Penalty Series.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747C25D88C420084B21D /* World Cup Penalty Series.mp3 */; };
+		4E6374C825D88C6A0084B21D /* Gently Back to Sleep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747D25D88C440084B21D /* Gently Back to Sleep.mp3 */; };
+		4E6374C925D88C6A0084B21D /* Dating Courageously.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747E25D88C460084B21D /* Dating Courageously.mp3 */; };
+		4E6374CA25D88C6A0084B21D /* Returning to Now.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63747F25D88C470084B21D /* Returning to Now.mp3 */; };
+		4E6374CB25D88C6A0084B21D /* Deconstructing Performance Anxiety.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748025D88C490084B21D /* Deconstructing Performance Anxiety.mp3 */; };
+		4E6374CC25D88C6A0084B21D /* 7 Days of Managing Stress.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748125D88C4B0084B21D /* 7 Days of Managing Stress.mp3 */; };
+		4E6374CD25D88C6A0084B21D /* 7 Days of Happiness.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748225D88C4D0084B21D /* 7 Days of Happiness.mp3 */; };
+		4E6374CE25D88C6A0084B21D /* Timed Meditation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748325D88C4E0084B21D /* Timed Meditation.mp3 */; };
+		4E6374CF25D88C6A0084B21D /* Easing Depression.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748425D88C500084B21D /* Easing Depression.mp3 */; };
+		4E6374D025D88C6A0084B21D /* A Heart Less Heavy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748525D88C510084B21D /* A Heart Less Heavy.mp3 */; };
+		4E6374D125D88C6A0084B21D /* Loving-Kindness.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748625D88C530084B21D /* Loving-Kindness.mp3 */; };
+		4E6374D225D88C6A0084B21D /* Relationship with Self Series .mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748725D88C550084B21D /* Relationship with Self Series .mp3 */; };
+		4E6374D325D88C6A0084B21D /* Stillwater - Apple TV+.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748825D88C560084B21D /* Stillwater - Apple TV+.mp3 */; };
+		4E6374D425D88C6A0084B21D /* Calm Kids (Ages 5-6).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748925D88C580084B21D /* Calm Kids (Ages 5-6).mp3 */; };
+		4E6374D525D88C6A0084B21D /* Open-Ended Meditation.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748A25D88C5A0084B21D /* Open-Ended Meditation.mp3 */; };
+		4E6374D625D88C6A0084B21D /* 7 Days of Sleep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748B25D88C5B0084B21D /* 7 Days of Sleep.mp3 */; };
+		4E6374D725D88C6A0084B21D /* Soundscape Meditation- Central Park.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748C25D88C5D0084B21D /* Soundscape Meditation- Central Park.mp3 */; };
+		4E6374D825D88C6A0084B21D /* The Confidence Series.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748D25D88C5E0084B21D /* The Confidence Series.mp3 */; };
+		4E6374D925D88C6A0084B21D /* Calm Kids (Ages 11-13).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748E25D88C600084B21D /* Calm Kids (Ages 11-13).mp3 */; };
+		4E6374DA25D88C6A0084B21D /* Non-Judgment.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63748F25D88C620084B21D /* Non-Judgment.mp3 */; };
+		4E6374DB25D88C6A0084B21D /* 7 Days of Calming Anxiety.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63749025D88C630084B21D /* 7 Days of Calming Anxiety.mp3 */; };
+		4E6374DC25D88C6A0084B21D /* 7 Days of Self-Esteem.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63749125D88C650084B21D /* 7 Days of Self-Esteem.mp3 */; };
+		4E6374DD25D88C6A0084B21D /* Mindfulness at Work.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63749225D88C670084B21D /* Mindfulness at Work.mp3 */; };
+		4E6374DE25D88C6A0084B21D /* Sigur Rós Sound Bath Experience.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63749325D88C680084B21D /* Sigur Rós Sound Bath Experience.mp3 */; };
+		4E6374DF25D88C6A0084B21D /* Deep Concentration .mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63749425D88C6A0084B21D /* Deep Concentration .mp3 */; };
+		4E63750125D88D430084B21D /* Heart Beat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E125D88D180084B21D /* Heart Beat.mp3 */; };
+		4E63750225D88D430084B21D /* Heavy Rain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E225D88D190084B21D /* Heavy Rain.mp3 */; };
+		4E63750325D88D430084B21D /* Ocean Waves.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E325D88D1A0084B21D /* Ocean Waves.mp3 */; };
+		4E63750425D88D430084B21D /* Light Rain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E425D88D1C0084B21D /* Light Rain.mp3 */; };
+		4E63750525D88D430084B21D /* Crackling Fireplace.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E525D88D1D0084B21D /* Crackling Fireplace.mp3 */; };
+		4E63750625D88D430084B21D /* Train Ride.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E625D88D1F0084B21D /* Train Ride.mp3 */; };
+		4E63750725D88D430084B21D /* Calm Island.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E725D88D200084B21D /* Calm Island.mp3 */; };
+		4E63750825D88D430084B21D /* Washing Machine.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E825D88D220084B21D /* Washing Machine.mp3 */; };
+		4E63750925D88D430084B21D /* Waterfall.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E925D88D230084B21D /* Waterfall.mp3 */; };
+		4E63750A25D88D430084B21D /* White Noise Ocean Surf.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374EA25D88D240084B21D /* White Noise Ocean Surf.mp3 */; };
+		4E63750B25D88D430084B21D /* White Noise.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374EB25D88D260084B21D /* White Noise.mp3 */; };
+		4E63750C25D88D430084B21D /* City Rain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374EC25D88D270084B21D /* City Rain.mp3 */; };
+		4E63750D25D88D430084B21D /* Pink Noise.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374ED25D88D290084B21D /* Pink Noise.mp3 */; };
+		4E63750E25D88D430084B21D /* City Streets.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374EE25D88D2A0084B21D /* City Streets.mp3 */; };
+		4E63750F25D88D430084B21D /* Evening Crickets.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374EF25D88D2B0084B21D /* Evening Crickets.mp3 */; };
+		4E63751025D88D430084B21D /* Babbling Brook.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374F025D88D2D0084B21D /* Babbling Brook.mp3 */; };
+		4E63751125D88D430084B21D /* Purring Cat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374F125D88D2E0084B21D /* Purring Cat.mp3 */; };
+		4E63751225D88D430084B21D /* Coral Reef.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374F225D88D2F0084B21D /* Coral Reef.mp3 */; };
+		4E63751325D88D430084B21D /* Rain on Leaves.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374F325D88D310084B21D /* Rain on Leaves.mp3 */; };
+		4E63751425D88D430084B21D /* Wind in Pines.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374F425D88D320084B21D /* Wind in Pines.mp3 */; };
+		4E63751525D88D430084B21D /* Peaceful Stream.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374F525D88D330084B21D /* Peaceful Stream.mp3 */; };
+		4E63751625D88D430084B21D /* Distant Ocean Surf.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374F625D88D350084B21D /* Distant Ocean Surf.mp3 */; };
+		4E63751725D88D430084B21D /* Camp Fire.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374F725D88D360084B21D /* Camp Fire.mp3 */; };
+		4E63751825D88D430084B21D /* Jasper Lake.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374F825D88D370084B21D /* Jasper Lake.mp3 */; };
+		4E63751925D88D430084B21D /* Humpback Whale.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374F925D88D390084B21D /* Humpback Whale.mp3 */; };
+		4E63751A25D88D430084B21D /* Thunderstorm.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374FA25D88D3A0084B21D /* Thunderstorm.mp3 */; };
+		4E63751B25D88D430084B21D /* Calming Aquascape.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374FB25D88D3B0084B21D /* Calming Aquascape.mp3 */; };
+		4E63751C25D88D430084B21D /* Oscillating Fan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374FC25D88D3D0084B21D /* Oscillating Fan.mp3 */; };
+		4E63751D25D88D430084B21D /* Forest Ambience.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374FD25D88D3E0084B21D /* Forest Ambience.mp3 */; };
+		4E63751E25D88D430084B21D /* Majestic Valley.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374FE25D88D400084B21D /* Majestic Valley.mp3 */; };
+		4E63751F25D88D430084B21D /* Rain On Window.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374FF25D88D410084B21D /* Rain On Window.mp3 */; };
+		4E63752025D88D430084B21D /* Baby Shhh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63750025D88D430084B21D /* Baby Shhh.mp3 */; };
 		4E72C91325BCD9D400DF3CF2 /* AddNewAlarmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E72C91225BCD9D400DF3CF2 /* AddNewAlarmViewController.swift */; };
 		4E73FE4625C6F9860091AED4 /* SoundscapesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E73FE4525C6F9860091AED4 /* SoundscapesViewController.swift */; };
 		4E73FE4B25C6FAED0091AED4 /* MeditateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E73FE4A25C6FAED0091AED4 /* MeditateViewController.swift */; };
@@ -226,6 +333,113 @@
 		4E245DF325ADEABE00C8E57B /* MediaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MediaViewController.swift; sourceTree = "<group>"; };
 		4E60EC5B25AF7AAF0049D4ED /* SelectSoundViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectSoundViewController.swift; sourceTree = "<group>"; };
 		4E60EC6025AF7D1D0049D4ED /* SoundPickCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundPickCollectionViewCell.swift; sourceTree = "<group>"; };
+		4E63744A25D88C000084B21D /* 7 Days of Gratitude.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7 Days of Gratitude.mp3"; sourceTree = "<group>"; };
+		4E63744B25D88C020084B21D /* Mindfulness in Daily Life.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mindfulness in Daily Life.mp3"; sourceTree = "<group>"; };
+		4E63744C25D88C030084B21D /* Calm Light.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Calm Light.mp3"; sourceTree = "<group>"; };
+		4E63744D25D88C050084B21D /* Mindfulness with Mallika.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mindfulness with Mallika.mp3"; sourceTree = "<group>"; };
+		4E63744E25D88C060084B21D /* Mindful Walking.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mindful Walking.mp3"; sourceTree = "<group>"; };
+		4E63744F25D88C080084B21D /* Panic SOS.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Panic SOS.mp3"; sourceTree = "<group>"; };
+		4E63745025D88C090084B21D /* Restful Sleep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Restful Sleep.mp3"; sourceTree = "<group>"; };
+		4E63745125D88C0A0084B21D /* Softly Back to Sleep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Softly Back to Sleep.mp3"; sourceTree = "<group>"; };
+		4E63745225D88C0B0084B21D /* Thomas & Friends Learn to Meditate.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Thomas & Friends Learn to Meditate.mp3"; sourceTree = "<group>"; };
+		4E63745325D88C0C0084B21D /* Untangling Physical Pain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Untangling Physical Pain.mp3"; sourceTree = "<group>"; };
+		4E63745425D88C0E0084B21D /* Deep Sleep Release.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Deep Sleep Release.mp3"; sourceTree = "<group>"; };
+		4E63745525D88C0F0084B21D /* 7 Days of Focus.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7 Days of Focus.mp3"; sourceTree = "<group>"; };
+		4E63745625D88C100084B21D /* Relaxed Open-hearted Presence.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Relaxed Open-hearted Presence.mp3"; sourceTree = "<group>"; };
+		4E63745725D88C110084B21D /* Winnie the Pooh Series.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Winnie the Pooh Series.mp3"; sourceTree = "<group>"; };
+		4E63745825D88C120084B21D /* Mindful Eating Series.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mindful Eating Series.mp3"; sourceTree = "<group>"; };
+		4E63745925D88C130084B21D /* Love and Relationships.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Love and Relationships.mp3"; sourceTree = "<group>"; };
+		4E63745A25D88C150084B21D /* Letting Go into Sleep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Letting Go into Sleep.mp3"; sourceTree = "<group>"; };
+		4E63745B25D88C160084B21D /* Emergency Calm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Emergency Calm.mp3"; sourceTree = "<group>"; };
+		4E63745C25D88C170084B21D /* How to Meditate.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "How to Meditate.mp3"; sourceTree = "<group>"; };
+		4E63745D25D88C180084B21D /* Forgiveness.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Forgiveness.mp3; sourceTree = "<group>"; };
+		4E63745E25D88C190084B21D /* Anxiety Release.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Anxiety Release.mp3"; sourceTree = "<group>"; };
+		4E63745F25D88C1A0084B21D /* Deep Rest.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Deep Rest.mp3"; sourceTree = "<group>"; };
+		4E63746025D88C1C0084B21D /* Rhythm of the Train.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rhythm of the Train.mp3"; sourceTree = "<group>"; };
+		4E63746125D88C1D0084B21D /* Take-90.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Take-90.mp3"; sourceTree = "<group>"; };
+		4E63746225D88C1E0084B21D /* Emotions Series.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Emotions Series.mp3"; sourceTree = "<group>"; };
+		4E63746325D88C200084B21D /* Commuting.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Commuting.mp3; sourceTree = "<group>"; };
+		4E63746425D88C210084B21D /* 7 Days of Soothing Pain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7 Days of Soothing Pain.mp3"; sourceTree = "<group>"; };
+		4E63746525D88C220084B21D /* Calm Kids (Ages 7-10).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Calm Kids (Ages 7-10).mp3"; sourceTree = "<group>"; };
+		4E63746625D88C230084B21D /* Breaking Habits Series.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Breaking Habits Series.mp3"; sourceTree = "<group>"; };
+		4E63746725D88C250084B21D /* Calm Kids (Ages 3-4).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Calm Kids (Ages 3-4).mp3"; sourceTree = "<group>"; };
+		4E63746825D88C260084B21D /* Calming Flight Anxiety.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Calming Flight Anxiety.mp3"; sourceTree = "<group>"; };
+		4E63746925D88C270084B21D /* 21 Days of Calm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "21 Days of Calm.mp3"; sourceTree = "<group>"; };
+		4E63746A25D88C280084B21D /* Saying Yes to Life.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Saying Yes to Life.mp3"; sourceTree = "<group>"; };
+		4E63746B25D88C290084B21D /* Calm Kids (Ages 14-17).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Calm Kids (Ages 14-17).mp3"; sourceTree = "<group>"; };
+		4E63746C25D88C2B0084B21D /* Deep Sleep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Deep Sleep.mp3"; sourceTree = "<group>"; };
+		4E63746D25D88C2C0084B21D /* Sleep Rhythm- Kumbhaka.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sleep Rhythm- Kumbhaka.mp3"; sourceTree = "<group>"; };
+		4E63746E25D88C2D0084B21D /* Sleep Rhythm- Rising and Falling.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sleep Rhythm- Rising and Falling.mp3"; sourceTree = "<group>"; };
+		4E63746F25D88C2E0084B21D /* Sleep Rhythm- Rushing Waves.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sleep Rhythm- Rushing Waves.mp3"; sourceTree = "<group>"; };
+		4E63747025D88C2F0084B21D /* Soundscape Meditation- Costa Rican Jungle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Soundscape Meditation- Costa Rican Jungle.mp3"; sourceTree = "<group>"; };
+		4E63747125D88C300084B21D /* Staying on Track.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Staying on Track.mp3"; sourceTree = "<group>"; };
+		4E63747225D88C320084B21D /* College Collection.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "College Collection.mp3"; sourceTree = "<group>"; };
+		4E63747325D88C330084B21D /* Body Scan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Body Scan.mp3"; sourceTree = "<group>"; };
+		4E63747425D88C340084B21D /* Train Your Mind.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Train Your Mind.mp3"; sourceTree = "<group>"; };
+		4E63747525D88C360084B21D /* 7 Days of Calm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7 Days of Calm.mp3"; sourceTree = "<group>"; };
+		4E63747625D88C380084B21D /* Relationship with Others Series.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Relationship with Others Series.mp3"; sourceTree = "<group>"; };
+		4E63747725D88C3A0084B21D /* Drifting Off with Gratitude.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Drifting Off with Gratitude.mp3"; sourceTree = "<group>"; };
+		4E63747825D88C3B0084B21D /* Daily Calm Highlights.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Daily Calm Highlights.mp3"; sourceTree = "<group>"; };
+		4E63747925D88C3D0084B21D /* Calming Anxiety.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Calming Anxiety.mp3"; sourceTree = "<group>"; };
+		4E63747A25D88C3F0084B21D /* Deep Sleep Relax.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Deep Sleep Relax.mp3"; sourceTree = "<group>"; };
+		4E63747B25D88C410084B21D /* Soundscape Meditation- California Beachside.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Soundscape Meditation- California Beachside.mp3"; sourceTree = "<group>"; };
+		4E63747C25D88C420084B21D /* World Cup Penalty Series.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "World Cup Penalty Series.mp3"; sourceTree = "<group>"; };
+		4E63747D25D88C440084B21D /* Gently Back to Sleep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Gently Back to Sleep.mp3"; sourceTree = "<group>"; };
+		4E63747E25D88C460084B21D /* Dating Courageously.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Dating Courageously.mp3"; sourceTree = "<group>"; };
+		4E63747F25D88C470084B21D /* Returning to Now.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Returning to Now.mp3"; sourceTree = "<group>"; };
+		4E63748025D88C490084B21D /* Deconstructing Performance Anxiety.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Deconstructing Performance Anxiety.mp3"; sourceTree = "<group>"; };
+		4E63748125D88C4B0084B21D /* 7 Days of Managing Stress.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7 Days of Managing Stress.mp3"; sourceTree = "<group>"; };
+		4E63748225D88C4D0084B21D /* 7 Days of Happiness.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7 Days of Happiness.mp3"; sourceTree = "<group>"; };
+		4E63748325D88C4E0084B21D /* Timed Meditation.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Timed Meditation.mp3"; sourceTree = "<group>"; };
+		4E63748425D88C500084B21D /* Easing Depression.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Easing Depression.mp3"; sourceTree = "<group>"; };
+		4E63748525D88C510084B21D /* A Heart Less Heavy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A Heart Less Heavy.mp3"; sourceTree = "<group>"; };
+		4E63748625D88C530084B21D /* Loving-Kindness.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Loving-Kindness.mp3"; sourceTree = "<group>"; };
+		4E63748725D88C550084B21D /* Relationship with Self Series .mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Relationship with Self Series .mp3"; sourceTree = "<group>"; };
+		4E63748825D88C560084B21D /* Stillwater - Apple TV+.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Stillwater - Apple TV+.mp3"; sourceTree = "<group>"; };
+		4E63748925D88C580084B21D /* Calm Kids (Ages 5-6).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Calm Kids (Ages 5-6).mp3"; sourceTree = "<group>"; };
+		4E63748A25D88C5A0084B21D /* Open-Ended Meditation.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Open-Ended Meditation.mp3"; sourceTree = "<group>"; };
+		4E63748B25D88C5B0084B21D /* 7 Days of Sleep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7 Days of Sleep.mp3"; sourceTree = "<group>"; };
+		4E63748C25D88C5D0084B21D /* Soundscape Meditation- Central Park.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Soundscape Meditation- Central Park.mp3"; sourceTree = "<group>"; };
+		4E63748D25D88C5E0084B21D /* The Confidence Series.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Confidence Series.mp3"; sourceTree = "<group>"; };
+		4E63748E25D88C600084B21D /* Calm Kids (Ages 11-13).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Calm Kids (Ages 11-13).mp3"; sourceTree = "<group>"; };
+		4E63748F25D88C620084B21D /* Non-Judgment.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Non-Judgment.mp3"; sourceTree = "<group>"; };
+		4E63749025D88C630084B21D /* 7 Days of Calming Anxiety.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7 Days of Calming Anxiety.mp3"; sourceTree = "<group>"; };
+		4E63749125D88C650084B21D /* 7 Days of Self-Esteem.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7 Days of Self-Esteem.mp3"; sourceTree = "<group>"; };
+		4E63749225D88C670084B21D /* Mindfulness at Work.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mindfulness at Work.mp3"; sourceTree = "<group>"; };
+		4E63749325D88C680084B21D /* Sigur Rós Sound Bath Experience.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sigur Rós Sound Bath Experience.mp3"; sourceTree = "<group>"; };
+		4E63749425D88C6A0084B21D /* Deep Concentration .mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Deep Concentration .mp3"; sourceTree = "<group>"; };
+		4E6374E125D88D180084B21D /* Heart Beat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Heart Beat.mp3"; sourceTree = "<group>"; };
+		4E6374E225D88D190084B21D /* Heavy Rain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Heavy Rain.mp3"; sourceTree = "<group>"; };
+		4E6374E325D88D1A0084B21D /* Ocean Waves.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ocean Waves.mp3"; sourceTree = "<group>"; };
+		4E6374E425D88D1C0084B21D /* Light Rain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Light Rain.mp3"; sourceTree = "<group>"; };
+		4E6374E525D88D1D0084B21D /* Crackling Fireplace.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Crackling Fireplace.mp3"; sourceTree = "<group>"; };
+		4E6374E625D88D1F0084B21D /* Train Ride.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Train Ride.mp3"; sourceTree = "<group>"; };
+		4E6374E725D88D200084B21D /* Calm Island.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Calm Island.mp3"; sourceTree = "<group>"; };
+		4E6374E825D88D220084B21D /* Washing Machine.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Washing Machine.mp3"; sourceTree = "<group>"; };
+		4E6374E925D88D230084B21D /* Waterfall.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Waterfall.mp3; sourceTree = "<group>"; };
+		4E6374EA25D88D240084B21D /* White Noise Ocean Surf.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "White Noise Ocean Surf.mp3"; sourceTree = "<group>"; };
+		4E6374EB25D88D260084B21D /* White Noise.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "White Noise.mp3"; sourceTree = "<group>"; };
+		4E6374EC25D88D270084B21D /* City Rain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "City Rain.mp3"; sourceTree = "<group>"; };
+		4E6374ED25D88D290084B21D /* Pink Noise.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pink Noise.mp3"; sourceTree = "<group>"; };
+		4E6374EE25D88D2A0084B21D /* City Streets.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "City Streets.mp3"; sourceTree = "<group>"; };
+		4E6374EF25D88D2B0084B21D /* Evening Crickets.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Evening Crickets.mp3"; sourceTree = "<group>"; };
+		4E6374F025D88D2D0084B21D /* Babbling Brook.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Babbling Brook.mp3"; sourceTree = "<group>"; };
+		4E6374F125D88D2E0084B21D /* Purring Cat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Purring Cat.mp3"; sourceTree = "<group>"; };
+		4E6374F225D88D2F0084B21D /* Coral Reef.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Coral Reef.mp3"; sourceTree = "<group>"; };
+		4E6374F325D88D310084B21D /* Rain on Leaves.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rain on Leaves.mp3"; sourceTree = "<group>"; };
+		4E6374F425D88D320084B21D /* Wind in Pines.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Wind in Pines.mp3"; sourceTree = "<group>"; };
+		4E6374F525D88D330084B21D /* Peaceful Stream.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Peaceful Stream.mp3"; sourceTree = "<group>"; };
+		4E6374F625D88D350084B21D /* Distant Ocean Surf.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Distant Ocean Surf.mp3"; sourceTree = "<group>"; };
+		4E6374F725D88D360084B21D /* Camp Fire.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Camp Fire.mp3"; sourceTree = "<group>"; };
+		4E6374F825D88D370084B21D /* Jasper Lake.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Jasper Lake.mp3"; sourceTree = "<group>"; };
+		4E6374F925D88D390084B21D /* Humpback Whale.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Humpback Whale.mp3"; sourceTree = "<group>"; };
+		4E6374FA25D88D3A0084B21D /* Thunderstorm.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Thunderstorm.mp3; sourceTree = "<group>"; };
+		4E6374FB25D88D3B0084B21D /* Calming Aquascape.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Calming Aquascape.mp3"; sourceTree = "<group>"; };
+		4E6374FC25D88D3D0084B21D /* Oscillating Fan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Oscillating Fan.mp3"; sourceTree = "<group>"; };
+		4E6374FD25D88D3E0084B21D /* Forest Ambience.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Forest Ambience.mp3"; sourceTree = "<group>"; };
+		4E6374FE25D88D400084B21D /* Majestic Valley.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Majestic Valley.mp3"; sourceTree = "<group>"; };
+		4E6374FF25D88D410084B21D /* Rain On Window.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Rain On Window.mp3"; sourceTree = "<group>"; };
+		4E63750025D88D430084B21D /* Baby Shhh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Baby Shhh.mp3"; sourceTree = "<group>"; };
 		4E72C91225BCD9D400DF3CF2 /* AddNewAlarmViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddNewAlarmViewController.swift; sourceTree = "<group>"; };
 		4E73FE4525C6F9860091AED4 /* SoundscapesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SoundscapesViewController.swift; sourceTree = "<group>"; };
 		4E73FE4A25C6FAED0091AED4 /* MeditateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeditateViewController.swift; sourceTree = "<group>"; };
@@ -380,6 +594,127 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4E63744925D88BF30084B21D /* mediate */ = {
+			isa = PBXGroup;
+			children = (
+				4E63747525D88C360084B21D /* 7 Days of Calm.mp3 */,
+				4E63749025D88C630084B21D /* 7 Days of Calming Anxiety.mp3 */,
+				4E63745525D88C0F0084B21D /* 7 Days of Focus.mp3 */,
+				4E63744A25D88C000084B21D /* 7 Days of Gratitude.mp3 */,
+				4E63748225D88C4D0084B21D /* 7 Days of Happiness.mp3 */,
+				4E63748125D88C4B0084B21D /* 7 Days of Managing Stress.mp3 */,
+				4E63749125D88C650084B21D /* 7 Days of Self-Esteem.mp3 */,
+				4E63748B25D88C5B0084B21D /* 7 Days of Sleep.mp3 */,
+				4E63746425D88C210084B21D /* 7 Days of Soothing Pain.mp3 */,
+				4E63746925D88C270084B21D /* 21 Days of Calm.mp3 */,
+				4E63748525D88C510084B21D /* A Heart Less Heavy.mp3 */,
+				4E63745E25D88C190084B21D /* Anxiety Release.mp3 */,
+				4E63747325D88C330084B21D /* Body Scan.mp3 */,
+				4E63746625D88C230084B21D /* Breaking Habits Series.mp3 */,
+				4E63746725D88C250084B21D /* Calm Kids (Ages 3-4).mp3 */,
+				4E63748925D88C580084B21D /* Calm Kids (Ages 5-6).mp3 */,
+				4E63746525D88C220084B21D /* Calm Kids (Ages 7-10).mp3 */,
+				4E63748E25D88C600084B21D /* Calm Kids (Ages 11-13).mp3 */,
+				4E63746B25D88C290084B21D /* Calm Kids (Ages 14-17).mp3 */,
+				4E63744C25D88C030084B21D /* Calm Light.mp3 */,
+				4E63747925D88C3D0084B21D /* Calming Anxiety.mp3 */,
+				4E63746825D88C260084B21D /* Calming Flight Anxiety.mp3 */,
+				4E63747225D88C320084B21D /* College Collection.mp3 */,
+				4E63746325D88C200084B21D /* Commuting.mp3 */,
+				4E63747825D88C3B0084B21D /* Daily Calm Highlights.mp3 */,
+				4E63747E25D88C460084B21D /* Dating Courageously.mp3 */,
+				4E63748025D88C490084B21D /* Deconstructing Performance Anxiety.mp3 */,
+				4E63749425D88C6A0084B21D /* Deep Concentration .mp3 */,
+				4E63745F25D88C1A0084B21D /* Deep Rest.mp3 */,
+				4E63747A25D88C3F0084B21D /* Deep Sleep Relax.mp3 */,
+				4E63745425D88C0E0084B21D /* Deep Sleep Release.mp3 */,
+				4E63746C25D88C2B0084B21D /* Deep Sleep.mp3 */,
+				4E63747725D88C3A0084B21D /* Drifting Off with Gratitude.mp3 */,
+				4E63748425D88C500084B21D /* Easing Depression.mp3 */,
+				4E63745B25D88C160084B21D /* Emergency Calm.mp3 */,
+				4E63746225D88C1E0084B21D /* Emotions Series.mp3 */,
+				4E63745D25D88C180084B21D /* Forgiveness.mp3 */,
+				4E63747D25D88C440084B21D /* Gently Back to Sleep.mp3 */,
+				4E63745C25D88C170084B21D /* How to Meditate.mp3 */,
+				4E63745A25D88C150084B21D /* Letting Go into Sleep.mp3 */,
+				4E63745925D88C130084B21D /* Love and Relationships.mp3 */,
+				4E63748625D88C530084B21D /* Loving-Kindness.mp3 */,
+				4E63745825D88C120084B21D /* Mindful Eating Series.mp3 */,
+				4E63744E25D88C060084B21D /* Mindful Walking.mp3 */,
+				4E63749225D88C670084B21D /* Mindfulness at Work.mp3 */,
+				4E63744B25D88C020084B21D /* Mindfulness in Daily Life.mp3 */,
+				4E63744D25D88C050084B21D /* Mindfulness with Mallika.mp3 */,
+				4E63748F25D88C620084B21D /* Non-Judgment.mp3 */,
+				4E63748A25D88C5A0084B21D /* Open-Ended Meditation.mp3 */,
+				4E63744F25D88C080084B21D /* Panic SOS.mp3 */,
+				4E63747625D88C380084B21D /* Relationship with Others Series.mp3 */,
+				4E63748725D88C550084B21D /* Relationship with Self Series .mp3 */,
+				4E63745625D88C100084B21D /* Relaxed Open-hearted Presence.mp3 */,
+				4E63745025D88C090084B21D /* Restful Sleep.mp3 */,
+				4E63747F25D88C470084B21D /* Returning to Now.mp3 */,
+				4E63746025D88C1C0084B21D /* Rhythm of the Train.mp3 */,
+				4E63746A25D88C280084B21D /* Saying Yes to Life.mp3 */,
+				4E63749325D88C680084B21D /* Sigur Rós Sound Bath Experience.mp3 */,
+				4E63746D25D88C2C0084B21D /* Sleep Rhythm- Kumbhaka.mp3 */,
+				4E63746E25D88C2D0084B21D /* Sleep Rhythm- Rising and Falling.mp3 */,
+				4E63746F25D88C2E0084B21D /* Sleep Rhythm- Rushing Waves.mp3 */,
+				4E63745125D88C0A0084B21D /* Softly Back to Sleep.mp3 */,
+				4E63747B25D88C410084B21D /* Soundscape Meditation- California Beachside.mp3 */,
+				4E63748C25D88C5D0084B21D /* Soundscape Meditation- Central Park.mp3 */,
+				4E63747025D88C2F0084B21D /* Soundscape Meditation- Costa Rican Jungle.mp3 */,
+				4E63747125D88C300084B21D /* Staying on Track.mp3 */,
+				4E63748825D88C560084B21D /* Stillwater - Apple TV+.mp3 */,
+				4E63746125D88C1D0084B21D /* Take-90.mp3 */,
+				4E63748D25D88C5E0084B21D /* The Confidence Series.mp3 */,
+				4E63745225D88C0B0084B21D /* Thomas & Friends Learn to Meditate.mp3 */,
+				4E63748325D88C4E0084B21D /* Timed Meditation.mp3 */,
+				4E63747425D88C340084B21D /* Train Your Mind.mp3 */,
+				4E63745325D88C0C0084B21D /* Untangling Physical Pain.mp3 */,
+				4E63745725D88C110084B21D /* Winnie the Pooh Series.mp3 */,
+				4E63747C25D88C420084B21D /* World Cup Penalty Series.mp3 */,
+			);
+			path = mediate;
+			sourceTree = "<group>";
+		};
+		4E6374E025D88CD20084B21D /* soundsScapes */ = {
+			isa = PBXGroup;
+			children = (
+				4E6374F025D88D2D0084B21D /* Babbling Brook.mp3 */,
+				4E63750025D88D430084B21D /* Baby Shhh.mp3 */,
+				4E6374E725D88D200084B21D /* Calm Island.mp3 */,
+				4E6374FB25D88D3B0084B21D /* Calming Aquascape.mp3 */,
+				4E6374F725D88D360084B21D /* Camp Fire.mp3 */,
+				4E6374EC25D88D270084B21D /* City Rain.mp3 */,
+				4E6374EE25D88D2A0084B21D /* City Streets.mp3 */,
+				4E6374F225D88D2F0084B21D /* Coral Reef.mp3 */,
+				4E6374E525D88D1D0084B21D /* Crackling Fireplace.mp3 */,
+				4E6374F625D88D350084B21D /* Distant Ocean Surf.mp3 */,
+				4E6374EF25D88D2B0084B21D /* Evening Crickets.mp3 */,
+				4E6374FD25D88D3E0084B21D /* Forest Ambience.mp3 */,
+				4E6374E125D88D180084B21D /* Heart Beat.mp3 */,
+				4E6374E225D88D190084B21D /* Heavy Rain.mp3 */,
+				4E6374F925D88D390084B21D /* Humpback Whale.mp3 */,
+				4E6374F825D88D370084B21D /* Jasper Lake.mp3 */,
+				4E6374E425D88D1C0084B21D /* Light Rain.mp3 */,
+				4E6374FE25D88D400084B21D /* Majestic Valley.mp3 */,
+				4E6374E325D88D1A0084B21D /* Ocean Waves.mp3 */,
+				4E6374FC25D88D3D0084B21D /* Oscillating Fan.mp3 */,
+				4E6374F525D88D330084B21D /* Peaceful Stream.mp3 */,
+				4E6374ED25D88D290084B21D /* Pink Noise.mp3 */,
+				4E6374F125D88D2E0084B21D /* Purring Cat.mp3 */,
+				4E6374F325D88D310084B21D /* Rain on Leaves.mp3 */,
+				4E6374FF25D88D410084B21D /* Rain On Window.mp3 */,
+				4E6374FA25D88D3A0084B21D /* Thunderstorm.mp3 */,
+				4E6374E625D88D1F0084B21D /* Train Ride.mp3 */,
+				4E6374E825D88D220084B21D /* Washing Machine.mp3 */,
+				4E6374E925D88D230084B21D /* Waterfall.mp3 */,
+				4E6374EA25D88D240084B21D /* White Noise Ocean Surf.mp3 */,
+				4E6374EB25D88D260084B21D /* White Noise.mp3 */,
+				4E6374F425D88D320084B21D /* Wind in Pines.mp3 */,
+			);
+			path = soundsScapes;
+			sourceTree = "<group>";
+		};
 		4EE5F18425AD234600B9C2EE /* views */ = {
 			isa = PBXGroup;
 			children = (
@@ -542,6 +877,8 @@
 		9D8D248225ABABEB00B4E69D /* Motivational Alarm Clock */ = {
 			isa = PBXGroup;
 			children = (
+				4E6374E025D88CD20084B21D /* soundsScapes */,
+				4E63744925D88BF30084B21D /* mediate */,
 				4E21DAD225B33F560025C8A3 /* Motivational Alarm Clock.entitlements */,
 				4EE5F1F225AD255B00B9C2EE /* sounds */,
 				4EE5F18725AD237B00B9C2EE /* helpers */,
@@ -717,87 +1054,194 @@
 			files = (
 				9D9BAC1C25B8C2D400084507 /* This Is Your Job.mp3 in Resources */,
 				4EA4AED025B9E834009C2650 /* Something Wonderful.mp3 in Resources */,
+				4E6374BC25D88C6A0084B21D /* Staying on Track.mp3 in Resources */,
 				4EBBB5E525C0E5DA006D5B61 /* Beat The Alarm.mp3 in Resources */,
 				9D9BABEF25B8C2D400084507 /* Every Man Has Two Lives.mp3 in Resources */,
+				4E6374DC25D88C6A0084B21D /* 7 Days of Self-Esteem.mp3 in Resources */,
+				4E63750625D88D430084B21D /* Train Ride.mp3 in Resources */,
 				9D9BAC0725B8C2D400084507 /* You Are The One.mp3 in Resources */,
+				4E63750D25D88D430084B21D /* Pink Noise.mp3 in Resources */,
+				4E6374C925D88C6A0084B21D /* Dating Courageously.mp3 in Resources */,
 				4EA4AED225B9E834009C2650 /* Start Every Day Perfectly.mp3 in Resources */,
 				4EA4AEE425B9E834009C2650 /* I'm Not A Hostage.mp3 in Resources */,
 				4EA4AED625B9E834009C2650 /* I Am Worthy.mp3 in Resources */,
+				4E63751925D88D430084B21D /* Humpback Whale.mp3 in Resources */,
 				9D9BAC1625B8C2D400084507 /* Your Time Has Come.mp3 in Resources */,
+				4E6374BE25D88C6A0084B21D /* Body Scan.mp3 in Resources */,
 				4EBBB5E625C0E5DA006D5B61 /* Can't Hurt Me.mp3 in Resources */,
+				4E6374A825D88C6A0084B21D /* Forgiveness.mp3 in Resources */,
+				4E63751425D88D430084B21D /* Wind in Pines.mp3 in Resources */,
 				9D1FF06825D72EC700E26DDF /* UberMoveTextRegular.otf in Resources */,
 				9D1FF06525D72EC700E26DDF /* UberMoveTextLight.otf in Resources */,
 				9D9BAC7325B8F80C00084507 /* Put God First.mp3 in Resources */,
+				4E6374AD25D88C6A0084B21D /* Emotions Series.mp3 in Resources */,
+				4E63750225D88D430084B21D /* Heavy Rain.mp3 in Resources */,
+				4E63749825D88C6A0084B21D /* Mindfulness with Mallika.mp3 in Resources */,
+				4E6374B925D88C6A0084B21D /* Sleep Rhythm- Rising and Falling.mp3 in Resources */,
 				9D9BAC1925B8C2D400084507 /* Rectangle.png in Resources */,
+				4E6374DB25D88C6A0084B21D /* 7 Days of Calming Anxiety.mp3 in Resources */,
+				4E6374CA25D88C6A0084B21D /* Returning to Now.mp3 in Resources */,
+				4E6374B125D88C6A0084B21D /* Breaking Habits Series.mp3 in Resources */,
+				4E63752025D88D430084B21D /* Baby Shhh.mp3 in Resources */,
 				9D9BABF225B8C2D400084507 /* Remind Yourself Why.mp3 in Resources */,
+				4E63749525D88C6A0084B21D /* 7 Days of Gratitude.mp3 in Resources */,
 				9D9BABFE25B8C2D400084507 /* Don't You Give Up.mp3 in Resources */,
+				4E63749F25D88C6A0084B21D /* Deep Sleep Release.mp3 in Resources */,
+				4E63750F25D88D430084B21D /* Evening Crickets.mp3 in Resources */,
+				4E6374A525D88C6A0084B21D /* Letting Go into Sleep.mp3 in Resources */,
+				4E6374D125D88C6A0084B21D /* Loving-Kindness.mp3 in Resources */,
+				4E63751A25D88D430084B21D /* Thunderstorm.mp3 in Resources */,
+				4E6374BA25D88C6A0084B21D /* Sleep Rhythm- Rushing Waves.mp3 in Resources */,
+				4E63751825D88D430084B21D /* Jasper Lake.mp3 in Resources */,
 				9D9BAC3425B8C2D400084507 /* Rise & Grind.mp3 in Resources */,
+				4E6374A025D88C6A0084B21D /* 7 Days of Focus.mp3 in Resources */,
 				4EA4AEDD25B9E834009C2650 /* Just Do It, Girl.mp3 in Resources */,
 				9D9BAC8225B8F80C00084507 /* Dear, Lord.mp3 in Resources */,
 				4EBBB60225C0F365006D5B61 /* Be The Hero You Need.mp3 in Resources */,
 				4EA4AED425B9E834009C2650 /* Your Life Means Something.mp3 in Resources */,
+				4E63750B25D88D430084B21D /* White Noise.mp3 in Resources */,
 				9D9BABFB25B8C2D400084507 /* bell.mp3 in Resources */,
+				4E6374B225D88C6A0084B21D /* Calm Kids (Ages 3-4).mp3 in Resources */,
+				4E63749625D88C6A0084B21D /* Mindfulness in Daily Life.mp3 in Resources */,
 				4EBBB60125C0F365006D5B61 /* Outwork Your Competition.mp3 in Resources */,
+				4E63751225D88D430084B21D /* Coral Reef.mp3 in Resources */,
 				4EA4AECF25B9E834009C2650 /* It's Grind Season.mp3 in Resources */,
+				4E6374BF25D88C6A0084B21D /* Train Your Mind.mp3 in Resources */,
+				4E6374A625D88C6A0084B21D /* Emergency Calm.mp3 in Resources */,
 				4EBBB5FF25C0F365006D5B61 /* How Do You Make It?.mp3 in Resources */,
 				4EBBB5FE25C0F365006D5B61 /* You're Guilty.mp3 in Resources */,
 				9D1FF05F25D72EC700E26DDF /* UberMoveTextMedium.otf in Resources */,
+				4E6374CD25D88C6A0084B21D /* 7 Days of Happiness.mp3 in Resources */,
+				4E6374C625D88C6A0084B21D /* Soundscape Meditation- California Beachside.mp3 in Resources */,
+				4E6374CB25D88C6A0084B21D /* Deconstructing Performance Anxiety.mp3 in Resources */,
+				4E63750A25D88D430084B21D /* White Noise Ocean Surf.mp3 in Resources */,
+				4E63751E25D88D430084B21D /* Majestic Valley.mp3 in Resources */,
 				4EBBB5EC25C0E5DA006D5B61 /* 4-00 AM.mp3 in Resources */,
+				4E6374A225D88C6A0084B21D /* Winnie the Pooh Series.mp3 in Resources */,
 				9D9BAC2B25B8C2D400084507 /* You're Not A Hostage.mp3 in Resources */,
 				4EBBB60025C0F365006D5B61 /* 40% of Your Potential.mp3 in Resources */,
+				4E6374AA25D88C6A0084B21D /* Deep Rest.mp3 in Resources */,
+				4E63751F25D88D430084B21D /* Rain On Window.mp3 in Resources */,
 				9D9BAC7F25B8F80C00084507 /* Good Morning, Lord.mp3 in Resources */,
 				9D9BAC1025B8C2D400084507 /* Doubt.mp3 in Resources */,
+				4E6374B625D88C6A0084B21D /* Calm Kids (Ages 14-17).mp3 in Resources */,
+				4E6374DE25D88C6A0084B21D /* Sigur Rós Sound Bath Experience.mp3 in Resources */,
+				4E63751B25D88D430084B21D /* Calming Aquascape.mp3 in Resources */,
 				4EA4AEE125B9E834009C2650 /* Get Your Money Up.mp3 in Resources */,
 				4EBBB5E425C0E5DA006D5B61 /* Rise & Shine.mp3 in Resources */,
+				4E6374C525D88C6A0084B21D /* Deep Sleep Relax.mp3 in Resources */,
+				4E6374B325D88C6A0084B21D /* Calming Flight Anxiety.mp3 in Resources */,
+				4E63751325D88D430084B21D /* Rain on Leaves.mp3 in Resources */,
+				4E63751525D88D430084B21D /* Peaceful Stream.mp3 in Resources */,
 				4EA4AED825B9E834009C2650 /* I Welcome Joy Into My Life.mp3 in Resources */,
+				4E6374A925D88C6A0084B21D /* Anxiety Release.mp3 in Resources */,
 				9D9BAC2525B8C2D400084507 /* It's Okay To Not Be Okay.mp3 in Resources */,
+				4E6374B525D88C6A0084B21D /* Saying Yes to Life.mp3 in Resources */,
+				4E6374DF25D88C6A0084B21D /* Deep Concentration .mp3 in Resources */,
 				4EBBB5EB25C0E5DA006D5B61 /* Master The Morning.mp3 in Resources */,
 				4E1EDA1425C23F97003970FB /* Never Hit Snooze Again.mp3 in Resources */,
+				4E6374B025D88C6A0084B21D /* Calm Kids (Ages 7-10).mp3 in Resources */,
+				4E63751725D88D430084B21D /* Camp Fire.mp3 in Resources */,
+				4E6374D925D88C6A0084B21D /* Calm Kids (Ages 11-13).mp3 in Resources */,
 				9D8D249025ABABF000B4E69D /* LaunchScreen.storyboard in Resources */,
 				4EBBB5FD25C0F365006D5B61 /* Fix Your Life.mp3 in Resources */,
 				4EA4AED725B9E834009C2650 /* The Lion.mp3 in Resources */,
+				4E6374A425D88C6A0084B21D /* Love and Relationships.mp3 in Resources */,
 				4EBBB5FA25C0F365006D5B61 /* Work Your Ass Off.mp3 in Resources */,
+				4E63751025D88D430084B21D /* Babbling Brook.mp3 in Resources */,
+				4E6374D325D88C6A0084B21D /* Stillwater - Apple TV+.mp3 in Resources */,
+				4E6374AF25D88C6A0084B21D /* 7 Days of Soothing Pain.mp3 in Resources */,
+				4E6374C425D88C6A0084B21D /* Calming Anxiety.mp3 in Resources */,
 				9D9BAC3125B8C2D400084507 /* You're The Main Character.mp3 in Resources */,
 				9D9BAC0125B8C2D400084507 /* Wolf Is Always Scratching.mp3 in Resources */,
+				4E63750125D88D430084B21D /* Heart Beat.mp3 in Resources */,
 				4EBBB5FB25C0F365006D5B61 /* Why Do You Want to Workout?.mp3 in Resources */,
+				4E6374B825D88C6A0084B21D /* Sleep Rhythm- Kumbhaka.mp3 in Resources */,
+				4E63750C25D88D430084B21D /* City Rain.mp3 in Resources */,
+				4E63751C25D88D430084B21D /* Oscillating Fan.mp3 in Resources */,
+				4E6374C125D88C6A0084B21D /* Relationship with Others Series.mp3 in Resources */,
+				4E6374C325D88C6A0084B21D /* Daily Calm Highlights.mp3 in Resources */,
+				4E6374D625D88C6A0084B21D /* 7 Days of Sleep.mp3 in Resources */,
+				4E6374AE25D88C6A0084B21D /* Commuting.mp3 in Resources */,
 				4EBBB5E925C0E5DA006D5B61 /* Soft Morning.mp3 in Resources */,
 				4EBBB5FC25C0F365006D5B61 /* Take Back The Throne.mp3 in Resources */,
+				4E6374DD25D88C6A0084B21D /* Mindfulness at Work.mp3 in Resources */,
 				4EA4AED325B9E834009C2650 /* Greatness Defined.mp3 in Resources */,
+				4E6374CC25D88C6A0084B21D /* 7 Days of Managing Stress.mp3 in Resources */,
+				4E63750525D88D430084B21D /* Crackling Fireplace.mp3 in Resources */,
+				4E63750325D88D430084B21D /* Ocean Waves.mp3 in Resources */,
+				4E6374C725D88C6A0084B21D /* World Cup Penalty Series.mp3 in Resources */,
+				4E63749D25D88C6A0084B21D /* Thomas & Friends Learn to Meditate.mp3 in Resources */,
+				4E6374D725D88C6A0084B21D /* Soundscape Meditation- Central Park.mp3 in Resources */,
 				9D9BAC7625B8F80C00084507 /* Good Morning.mp3 in Resources */,
+				4E6374D225D88C6A0084B21D /* Relationship with Self Series .mp3 in Resources */,
 				9D1FF06225D72EC700E26DDF /* UberMoveTextBold.otf in Resources */,
+				4E63749925D88C6A0084B21D /* Mindful Walking.mp3 in Resources */,
+				4E63749C25D88C6A0084B21D /* Softly Back to Sleep.mp3 in Resources */,
+				4E6374AB25D88C6A0084B21D /* Rhythm of the Train.mp3 in Resources */,
+				4E6374B725D88C6A0084B21D /* Deep Sleep.mp3 in Resources */,
 				9D8D248D25ABABF000B4E69D /* Assets.xcassets in Resources */,
 				9D9BAC1325B8C2D400084507 /* Learn To Be Okay Alone.mp3 in Resources */,
 				9D9BAC2225B8C2D400084507 /* Every Day Is A New Day.mp3 in Resources */,
+				4E63749A25D88C6A0084B21D /* Panic SOS.mp3 in Resources */,
 				4EA4AECD25B9E834009C2650 /* Perfect People.mp3 in Resources */,
+				4E63749B25D88C6A0084B21D /* Restful Sleep.mp3 in Resources */,
 				9D9BAC0A25B8C2D400084507 /* There's Gonna Be Some Good.mp3 in Resources */,
 				4EA4AECE25B9E834009C2650 /* Money Comes To Me.mp3 in Resources */,
+				4E63750825D88D430084B21D /* Washing Machine.mp3 in Resources */,
+				4E6374D525D88C6A0084B21D /* Open-Ended Meditation.mp3 in Resources */,
+				4E6374A325D88C6A0084B21D /* Mindful Eating Series.mp3 in Resources */,
+				4E6374AC25D88C6A0084B21D /* Take-90.mp3 in Resources */,
+				4E6374D425D88C6A0084B21D /* Calm Kids (Ages 5-6).mp3 in Resources */,
 				4EBBB5E725C0E5DA006D5B61 /* Get Out of Bed.mp3 in Resources */,
 				4EA4AED525B9E834009C2650 /* Nature of The Universe.mp3 in Resources */,
 				9D9BAC6D25B8F80B00084507 /* Lord, Thank You For This Day.mp3 in Resources */,
 				9D9BAC0425B8C2D400084507 /* newtrack2.mp3 in Resources */,
 				4EA4AEDB25B9E834009C2650 /* Today I Look For The Good.mp3 in Resources */,
 				4EA4AEE025B9E834009C2650 /* Turn Wounds Into Wisdom.mp3 in Resources */,
+				4E6374BB25D88C6A0084B21D /* Soundscape Meditation- Costa Rican Jungle.mp3 in Resources */,
+				4E6374B425D88C6A0084B21D /* 21 Days of Calm.mp3 in Resources */,
 				4EBBB5E825C0E5DA006D5B61 /* Wake Up.mp3 in Resources */,
 				4EA4AED125B9E834009C2650 /* Good Morning You Baddie.mp3 in Resources */,
 				4EA4AEDF25B9E834009C2650 /* Awaken The Mind.mp3 in Resources */,
+				4E63750925D88D430084B21D /* Waterfall.mp3 in Resources */,
+				4E63750425D88D430084B21D /* Light Rain.mp3 in Resources */,
+				4E63749725D88C6A0084B21D /* Calm Light.mp3 in Resources */,
+				4E63749E25D88C6A0084B21D /* Untangling Physical Pain.mp3 in Resources */,
+				4E6374BD25D88C6A0084B21D /* College Collection.mp3 in Resources */,
 				9D9BAC7025B8F80C00084507 /* God Is Testing Your Faith.mp3 in Resources */,
+				4E6374D825D88C6A0084B21D /* The Confidence Series.mp3 in Resources */,
 				4EA4AEDC25B9E834009C2650 /* Wake Up!.mp3 in Resources */,
+				4E63751D25D88D430084B21D /* Forest Ambience.mp3 in Resources */,
+				4E6374CE25D88C6A0084B21D /* Timed Meditation.mp3 in Resources */,
 				9D9BAC7C25B8F80C00084507 /* Forgive Me, God.mp3 in Resources */,
+				4E63750725D88D430084B21D /* Calm Island.mp3 in Resources */,
+				4E63751125D88D430084B21D /* Purring Cat.mp3 in Resources */,
 				9D9BAC0D25B8C2D400084507 /* Time To Wake Up.mp3 in Resources */,
 				4EBBB5EA25C0E5DA006D5B61 /* Get To Work.mp3 in Resources */,
+				4E63751625D88D430084B21D /* Distant Ocean Surf.mp3 in Resources */,
 				9D8D248B25ABABEB00B4E69D /* Main.storyboard in Resources */,
 				9D95568E25D4AABD002B3E2E /* GoogleService-Info.plist in Resources */,
+				4E6374C225D88C6A0084B21D /* Drifting Off with Gratitude.mp3 in Resources */,
 				9D9BAC2825B8C2D400084507 /* tickle.mp3 in Resources */,
 				4EA4AEE325B9E834009C2650 /* Excuses Don't Count.mp3 in Resources */,
 				9D9BAC7925B8F80C00084507 /* Don't Hang Out With Losers.mp3 in Resources */,
 				9D9BABF825B8C2D400084507 /* Adhan-makkah.caf in Resources */,
+				4E6374DA25D88C6A0084B21D /* Non-Judgment.mp3 in Resources */,
+				4E6374A725D88C6A0084B21D /* How to Meditate.mp3 in Resources */,
 				9D9BABF525B8C2D400084507 /* Bitmap.png in Resources */,
 				4EA4AEE225B9E834009C2650 /* Be Water.mp3 in Resources */,
 				9D9BAC2E25B8C2D400084507 /* Nobody Believes In You.mp3 in Resources */,
 				4EA4AEDA25B9E834009C2650 /* My Body.mp3 in Resources */,
+				4E6374C025D88C6A0084B21D /* 7 Days of Calm.mp3 in Resources */,
+				4E6374C825D88C6A0084B21D /* Gently Back to Sleep.mp3 in Resources */,
 				4EA4AED925B9E834009C2650 /* I Am Grateful for My Blessings.mp3 in Resources */,
+				4E6374CF25D88C6A0084B21D /* Easing Depression.mp3 in Resources */,
+				4E6374D025D88C6A0084B21D /* A Heart Less Heavy.mp3 in Resources */,
 				9D9BAC1F25B8C2D400084507 /* Tomorrow Is Not An Option.mp3 in Resources */,
+				4E63750E25D88D430084B21D /* City Streets.mp3 in Resources */,
 				4EA4AEDE25B9E834009C2650 /* You Can't Do Something.mp3 in Resources */,
+				4E6374A125D88C6A0084B21D /* Relaxed Open-hearted Presence.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
