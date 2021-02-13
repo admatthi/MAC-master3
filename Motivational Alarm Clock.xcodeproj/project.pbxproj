@@ -86,7 +86,7 @@
 		4E6374DC25D88C6A0084B21D /* 7 Days of Self-Esteem.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63749125D88C650084B21D /* 7 Days of Self-Esteem.mp3 */; };
 		4E6374DD25D88C6A0084B21D /* Mindfulness at Work.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63749225D88C670084B21D /* Mindfulness at Work.mp3 */; };
 		4E6374DE25D88C6A0084B21D /* Sigur Rós Sound Bath Experience.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63749325D88C680084B21D /* Sigur Rós Sound Bath Experience.mp3 */; };
-		4E6374DF25D88C6A0084B21D /* Deep Concentration .mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63749425D88C6A0084B21D /* Deep Concentration .mp3 */; };
+		4E6374DF25D88C6A0084B21D /* Deep Concentration.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E63749425D88C6A0084B21D /* Deep Concentration.mp3 */; };
 		4E63750125D88D430084B21D /* Heart Beat.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E125D88D180084B21D /* Heart Beat.mp3 */; };
 		4E63750225D88D430084B21D /* Heavy Rain.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E225D88D190084B21D /* Heavy Rain.mp3 */; };
 		4E63750325D88D430084B21D /* Ocean Waves.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4E6374E325D88D1A0084B21D /* Ocean Waves.mp3 */; };
@@ -407,7 +407,7 @@
 		4E63749125D88C650084B21D /* 7 Days of Self-Esteem.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "7 Days of Self-Esteem.mp3"; sourceTree = "<group>"; };
 		4E63749225D88C670084B21D /* Mindfulness at Work.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mindfulness at Work.mp3"; sourceTree = "<group>"; };
 		4E63749325D88C680084B21D /* Sigur Rós Sound Bath Experience.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Sigur Rós Sound Bath Experience.mp3"; sourceTree = "<group>"; };
-		4E63749425D88C6A0084B21D /* Deep Concentration .mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Deep Concentration .mp3"; sourceTree = "<group>"; };
+		4E63749425D88C6A0084B21D /* Deep Concentration.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Deep Concentration.mp3"; sourceTree = "<group>"; };
 		4E6374E125D88D180084B21D /* Heart Beat.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Heart Beat.mp3"; sourceTree = "<group>"; };
 		4E6374E225D88D190084B21D /* Heavy Rain.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Heavy Rain.mp3"; sourceTree = "<group>"; };
 		4E6374E325D88D1A0084B21D /* Ocean Waves.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ocean Waves.mp3"; sourceTree = "<group>"; };
@@ -624,7 +624,7 @@
 				4E63747825D88C3B0084B21D /* Daily Calm Highlights.mp3 */,
 				4E63747E25D88C460084B21D /* Dating Courageously.mp3 */,
 				4E63748025D88C490084B21D /* Deconstructing Performance Anxiety.mp3 */,
-				4E63749425D88C6A0084B21D /* Deep Concentration .mp3 */,
+				4E63749425D88C6A0084B21D /* Deep Concentration.mp3 */,
 				4E63745F25D88C1A0084B21D /* Deep Rest.mp3 */,
 				4E63747A25D88C3F0084B21D /* Deep Sleep Relax.mp3 */,
 				4E63745425D88C0E0084B21D /* Deep Sleep Release.mp3 */,
@@ -1137,7 +1137,7 @@
 				4E6374A925D88C6A0084B21D /* Anxiety Release.mp3 in Resources */,
 				9D9BAC2525B8C2D400084507 /* It's Okay To Not Be Okay.mp3 in Resources */,
 				4E6374B525D88C6A0084B21D /* Saying Yes to Life.mp3 in Resources */,
-				4E6374DF25D88C6A0084B21D /* Deep Concentration .mp3 in Resources */,
+				4E6374DF25D88C6A0084B21D /* Deep Concentration.mp3 in Resources */,
 				4EBBB5EB25C0E5DA006D5B61 /* Master The Morning.mp3 in Resources */,
 				4E1EDA1425C23F97003970FB /* Never Hit Snooze Again.mp3 in Resources */,
 				4E6374B025D88C6A0084B21D /* Calm Kids (Ages 7-10).mp3 in Resources */,

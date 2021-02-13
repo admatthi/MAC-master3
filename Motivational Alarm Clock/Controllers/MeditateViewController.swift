@@ -20,7 +20,7 @@ class MeditateViewController: UIViewController ,AVAudioPlayerDelegate{
     var selectedSound:Sounds?
 //    var soundsCategories = ["Motivation","Prayers", "Meditation", "Fitness", "Money" ]
     
-    var soundsCategories = ["Popular", "Sleep", "Anxiety", "Work", "Self-Care", "Focus", "Relaxation"]
+    var soundsCategories = ["Popular", "Sleep", "Anxiety", "Beginners", "Self-Care", "Focus", "Relaxation"]
 
     func selectsound(referrer : String) {
                                      AppEvents.logEvent(AppEvents.Name(rawValue: "selectsound"), parameters: ["referrer" : referrer])
